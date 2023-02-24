@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+}
+
+section {
+  padding: 0px 14px;
+}
+
+
+h1 {
+  color : var(--color-primary);
+}
